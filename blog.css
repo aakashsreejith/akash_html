@@ -1,0 +1,108 @@
+.caf{
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.caf1{
+    margin-top: 20px;
+    text-align: center;
+}
+header{
+    text-align: center;
+    margin-top: -20px;
+}
+.cafe{
+    margin-top: -19px;
+    background-image: url(a1c73c2f-6639-4df9-819c-05be0c5c5d84.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-style: oblique;
+    text-align: center;
+    
+}
+.para{
+    font-size: x-large;
+}
+.head1{
+    margin-top: -20px;
+    text-align: center;
+    color: brown;
+}
+.head2{
+    text-align: center;
+}
+.image1{
+    margin-top: 10px;
+    border-radius: 50px;
+
+}
+.porsh{
+    background-color: rgb(197, 241, 241);
+    
+}
+.myporsh{
+    
+    margin-left: 5px;
+}
+.porsch1{
+    padding-left: 50px;
+    font-size: 100px;
+    font-weight: 300;
+    text-align: center;
+    
+}
+.porsch2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.porsch3{
+    text-align: center;
+}
+.phead{
+    
+    color: darkblue;
+}
+.img2{
+    
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    
+}.barca{
+    margin-top: 10px;
+    display: flex;
+    align-items: top;
+    gap: 10px;
+    background-color: rgb(234, 234, 133);
+   
+    
+    
+}
+.bar1{
+    font-size: 50px;
+    color: brown;
+}
+.subh{
+    font-size: xx-large;
+    color: brown;
+}
+.barp{
+    font-size: x-large;
+}
+.barl{
+    font-size: x-large;}
+    .barca1{
+        margin-top: -33px;
+         background-color: rgb(234, 234, 133);
+        
+        
+    }
+   .img21{
+    text-align: center;
+   }
+   .foot{
+    text-align: right;
+   }

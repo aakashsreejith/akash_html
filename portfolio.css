@@ -1,0 +1,20 @@
+h2{
+    background-color: white;
+}
+.edu{
+    background-color: beige
+}
+header{
+    text-align: center;
+}
+body{
+    background-color:beige
+}
+section{
+    background-color: black;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
