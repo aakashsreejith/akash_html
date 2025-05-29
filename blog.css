@@ -1,6 +1,7 @@
 .caf{
-    border-radius: 50px;
-    margin-top: 20px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    margin-top: -20px;
 }
 .caf1{
     margin-top: 20px;
@@ -15,6 +16,7 @@ header{
     background-image: url(a1c73c2f-6639-4df9-819c-05be0c5c5d84.jpg);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     
 }
 .head{
@@ -41,9 +43,16 @@ header{
 
 }
 .porsh{
-    background-color: rgb(197, 241, 241);
-    
+    background-color: rgb(38, 203, 203);
+    background-image: url(229-2297494_porsche-white-logo-emblem.png);
+    background-position: center 100px;
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
+
+    
+
 .myporsh{
     
     margin-left: 5px;
@@ -65,6 +74,10 @@ header{
 .phead{
     
     color: darkblue;
+    font-size: xx-large;
+}
+.para1{
+    font-size: x-large;
 }
 .img2{
     
@@ -76,10 +89,21 @@ header{
     display: flex;
     align-items: top;
     gap: 10px;
-    background-color: rgb(234, 234, 133);
    
     
     
+    
+}
+.barful{
+     background-color: rgb(234, 234, 133);
+     background-image: url(FC-Barcelona-Logo-PNG-Free-Download.png);
+    background-position: center ;
+    background-size: contain;
+    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+   
 }
 .bar1{
     font-size: 50px;
@@ -96,12 +120,13 @@ header{
     font-size: x-large;}
     .barca1{
         margin-top: -33px;
-         background-color: rgb(234, 234, 133);
+         
         
         
     }
    .img21{
     text-align: center;
+    
    }
    .foot{
     text-align: right;
