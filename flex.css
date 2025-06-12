@@ -1,0 +1,25 @@
+.block1{
+    
+    background-color: antiquewhite;
+    height: 800px;
+    width: 600px;
+    text-align: center;
+}
+.block2{
+    background-color: aliceblue;
+    height: 800px;
+    width: 600px;
+    text-align: center;
+}
+.block3{
+    
+    background-color: beige;
+    height: 800px;
+    width: 600px;
+    text-align: center;
+}
+.container{
+    margin: -20px;
+    display: flex;
+    justify-content: space-evenly;
+}

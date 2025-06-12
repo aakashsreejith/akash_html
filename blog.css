@@ -96,13 +96,16 @@ header{
 }
 .barful{
      background-color: rgb(234, 234, 133);
-     background-image: url(FC-Barcelona-Logo-PNG-Free-Download.png);
+     background-image: url();
     background-position: center ;
     background-size: contain;
     
     background-attachment: fixed;
     background-repeat: no-repeat;
     opacity: 0.9;
+    display: flex;
+    justify-content: space-around;
+
    
 }
 .bar1{
