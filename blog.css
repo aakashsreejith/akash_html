@@ -134,3 +134,7 @@ header{
    .foot{
     text-align: right;
    }
+   .hi{
+    border-radius: 100px;
+   }
+   
