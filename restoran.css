@@ -1,0 +1,60 @@
+button{
+  width: 158px;
+  height: 45px;
+  font-size: 20px;
+  background-color: rgb(236, 114, 7);
+  color: white;
+  border: none;
+  
+  cursor: pointer;
+  padding-left: 10px; 
+  gap: 13.60px; 
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+.LA{
+    color: goldenrod;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+}
+body{
+    background-image: url(Untitled.jpeg);
+    background-size: cover;
+    opacity: 100px;
+    margin: 0;
+    
+}
+.para1{
+    font-size: 90px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 200px;
+}
+.main2{
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    color: white;
+    margin-left: 50px;
+}
+.hi{
+    margin-left: 50px;
+}
+.block2{
+    margin-top: 200px;
+}
+.main1{
+    margin-left: 10px;
+}
